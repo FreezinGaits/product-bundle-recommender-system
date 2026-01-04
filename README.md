@@ -4,7 +4,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 **A production-ready, explainable product bundle recommendation system built end-to-end on the UCI Online Retail dataset.**
 
